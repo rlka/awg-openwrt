@@ -15,7 +15,7 @@ jobs:
           - tag: "24.10.1"
             pkgarch: mips_24kc
             target: lantiq
-            subtarget: lantiq
+            subtarget: xrx200
             vermagic: "00b39d3ed476ff11a0b26b3b67716c44-r1"
     steps:
       - uses: actions/checkout@v4
