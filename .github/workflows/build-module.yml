@@ -12,7 +12,7 @@ jobs:
     strategy:
       matrix:
         build_env:
-          - tag: "24.10.1"
+          - tag: "24.10.4"
             pkgarch: mips_24kc
             target: lantiq
             subtarget: xrx200
