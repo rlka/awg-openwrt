@@ -16,7 +16,7 @@ jobs:
             pkgarch: mips_24kc
             target: lantiq
             subtarget: xrx200
-            vermagic: "edfe49a44601ddace14929ab941bea1e"
+            vermagic: "00b39d3ed476ff11a0b26b3b67716c44"
     steps:
       - uses: actions/checkout@v4
         with:
